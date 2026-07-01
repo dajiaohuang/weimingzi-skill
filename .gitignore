@@ -16,7 +16,6 @@ cookies.txt
 models/
 audio/
 raw/subtitles/
-raw/texts/
 video_list_full.json
 output/
 *.m4a
