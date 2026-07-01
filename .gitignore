@@ -1,26 +1,4 @@
-# Python-generated files
 __pycache__/
 *.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-
-# Virtual environments
 .venv
-
-# Sensitive files
 cookies.txt
-
-# Large data files
-models/
-audio/
-raw/subtitles/
-video_list_full.json
-output/
-*.m4a
-*.mp3
-
-# Temp
-*.tmp
-/tmp/
