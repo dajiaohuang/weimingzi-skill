@@ -1,0 +1,8 @@
+scripts/
+references/*.txt
+references/*.json
+references/*.csv
+__pycache__/
+*.pyc
+.venv/
+venv/
