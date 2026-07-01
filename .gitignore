@@ -8,3 +8,20 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Sensitive files
+cookies.txt
+
+# Large data files
+models/
+audio/
+raw/subtitles/
+raw/texts/
+video_list_full.json
+output/
+*.m4a
+*.mp3
+
+# Temp
+*.tmp
+/tmp/
